@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+}
+html, body {
+    height: 100%;
+}
+body {
+    display: flex;
+    background-image: url('../image/bg.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+h1 {
+    margin: auto;
+    color: aliceblue;
+}
